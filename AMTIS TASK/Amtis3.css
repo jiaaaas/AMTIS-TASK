@@ -1,0 +1,40 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    padding: 5cm;
+    margin-top: -4cm;
+    background: linear-gradient(to bottom, #0e0846, #0b516d); 
+}
+
+input[type=text]:focus {
+    border: 3px solid #555;
+  }
+
+p {
+    font-size: 18px;
+    color: #001aff;
+    margin-top: 20px;
+}
+
+h3{
+    font-size: 18px;
+    color: #ffffff;
+}
+
+.container {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px rgb(97, 105, 109);
+}
+
+.card {
+    background-color: #e2eff8; 
+    margin: 0 auto; 
+    margin-bottom: 35px; 
+}
+
+.btn-primary {
+    background-color: #002d4b; 
+    border-color: #002d4b;
+}
+
